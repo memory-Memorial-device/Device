@@ -1,4 +1,4 @@
-# 공간기억장치 메인
+# 공간기억장치 메인 [Prototype]
 
 <img src = "https://user-images.githubusercontent.com/42710623/195999451-a0c1ce1c-4897-4855-aa04-5a7241116fcc.png"/>
 
